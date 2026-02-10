@@ -1,0 +1,34 @@
+*.pyc
+__pycache__/
+*.egg-info/
+.eggs/
+dist/
+build/
+.Python
+env/
+venv/
+ENV/
+.venv
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Data and results
+data/*.csv
+results/*.png
+results/*.jpg
+results/*.pdf
+
+# OS
+Thumbs.db
+.DS_Store
